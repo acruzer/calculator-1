@@ -4,7 +4,7 @@
 def add(num1, num2):
     """Return the sum of the two inputs."""
 
-    return 10
+    return (num1 + num2)
 
 
 def subtract(num1, num2):
@@ -33,3 +33,4 @@ def power(num1, num2):
 
 def mod(num1, num2):
     """Return the remainder of num1 / num2."""
+
